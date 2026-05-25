@@ -1,6 +1,5 @@
 # Haystack
-### Introduction
-Pretend like this is a well written introduction.
+
 
 ## Build Dependencies
 This section will provide the appropriate commands and/or links for installing the build prerequisites of this project on Windows 10/11 and Fedora. The current main requirements are CMake 3.16 or later, make/ninja and a C++ compiler that supports the C++17 standard.  
